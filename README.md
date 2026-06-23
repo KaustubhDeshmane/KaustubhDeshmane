@@ -1,5 +1,6 @@
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0F172A,40:0891B2,100:22C55E&text=Kaustubh%20Deshmane&fontSize=82&fontColor=ffffff&animation=twinkling&desc=Creating%20•%20Learning%20•%20Innovating&descAlignY=68&descSize=24" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0F172A,40:0891B2,100:22C55E&text=Kaustubh%20Deshmane&fontSize=82&fontColor=ffffff&animation=twinkling&desc=Creating%20•%20Learning%20•%20Innovating&descAlignY=69&descSize=24" />
 </div>
 
 
@@ -59,8 +60,8 @@
 </div>
 
 ## 🌐 Socials:
-<div align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/kaustubh-deshmane-162924278" target="_blank">
+<div align="center">
+  <a href="https://www.linkedin.com/in/kaustubh-deshmane-162924278" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:kaustubhdeshmane123@gmail.com" target="_blank">
@@ -69,9 +70,13 @@
   <!-- <a href="https://discord.com/users/1152540231619334165" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="65" height="40" alt="discord logo"  />
   </a> -->
-  <a href="https://instagram.com/https://www.instagram.com/kaustubh_deshmane" target="_blank">
+  <a href="https://www.instagram.com/kaustubh_deshmane" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="65" height="40" alt="instagram logo"  />
   </a>
+</div>
+
+<div align="center">
+  <img height="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/579fe1183178475.653aa8931b193.gif" />
 </div>
 
 <p align="center">
