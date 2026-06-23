@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0F172A,40:0891B2,100:22C55E&text=Kaustubh%20Deshmane&fontSize=82&fontColor=f8fafc&animation=twinkling&desc=Creating%20•%20Learning%20•%20Innovating&descAlignY=69&descSize=24" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0F172A,40:0891B2,100:22C55E&text=Kaustubh%20Deshmane&fontSize=82&fontColor=c5cfdb &animation=twinkling&desc=Creating%20•%20Learning%20•%20Innovating&descAlignY=69&descSize=24" />
 </div>
 
 
