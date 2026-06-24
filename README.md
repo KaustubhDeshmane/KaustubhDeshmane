@@ -41,7 +41,7 @@
 
 # 💻 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,java,python,kotlin,php,react,nodejs,express,flask,mongodb,mysql,firebase,azure,docker,linux,git,github,postman,kafka,wordpress&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,javascript,java,python,kotlin,php,react,vite,nodejs,express,flask,mongodb,mysql,sqlite,firebase,azure,docker,linux,git,github,postman,wordpress,vercel,figma,photoshop,vscode&theme=dark" />
 </p>
 
 <div align="center">
